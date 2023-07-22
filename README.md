@@ -61,5 +61,9 @@ npm install react react-dom@latest
 install vite
 ```bash
 npm install @vitejs/plugin-react
-npm install @vitejs/plugin-react-refresh 
+npm install @vitejs/plugin-react-refresh
+```
+install inertia react
+```bash
+npm install @inertiajs/inertia-react @inertiajs/react  
 ```
